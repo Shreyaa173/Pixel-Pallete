@@ -1,8 +1,12 @@
 # Pixel-Pallete: A Collaborative Hub for Photographer Teams
-Pixel Palette is a web app I built using modern web development to empower photographer teams managing events. It tackles communication hurdles by offering features like chat, task management, and file sharing - all within a central platform. Photographers can organize event details, shot lists, client briefs, and schedules, ensuring everyone stays on the same page. Pixel Palette simplifies workflow by assigning tasks and tracking progress, streamlining the event photography experience for both the team and the client.
+* Pixel Palette is a web app I built using modern web development to empower photographer teams managing events.
+* It tackles communication hurdles by offering features like chat, task management, and file sharing - all within a central platform.
+* Photographers can organize event details, shot lists, client briefs, and schedules, ensuring everyone stays on the same page.
+* Pixel Palette simplifies workflow by assigning tasks and tracking progress, streamlining the event photography experience for both the team and the client.
 
-![Logo](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/logo.png)
-
+<p align="center">
+  <img src="https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/logo.png" alt="Logo" width="300" />
+</p>
 
 
 
@@ -34,9 +38,6 @@ Are you looking to capture the most memorable moments of your events with profes
 ### Memorable Experience
 - **Personalized Service:** Reflects your style and expectations.
 - **Lasting Memories:** Beautiful, high-quality photos to treasure forever.
-
-## Let's Create Memories Together
-Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime.
 
 ## Benefits of Using Pixel Palette
 
@@ -71,59 +72,51 @@ Join Us Today!
 Start earning tokens and unlock a world of rewards by signing up for our loyalty program today. It's completely free and only takes a moment.
 Together, let's make your shopping experience even more rewarding!
 
-## Our Business Model 
-* Ensuring Customer satisfaction
-* Access to premium features with no costs to the customer.
-* Loyalty tokens rewarded in forms of vouchers
-* Collaborating with buisness partners
-* Transparent communication
-* Helping our partners increase their in-store and digital sales.
-* Ensuring maximum profits for all parties involved
-* Driving maximum profits to both our loyal customers and collaborators without incurring any losses at our stake
+## Future Scope
 
-## Our Key Features
+### Expanded Services
+- **Videography:** Introducing professional videography services to complement our photography offerings.
+- **Event Planning:** Collaborations with event planners to offer comprehensive event packages.
 
-* Multiple platforms offered in a single platform.  
-* Comprehensive and powerfl ecosystem.  
-* Premium services at no charge from customers.
-* Instant reward issuance.
+### Advanced Technology
+- **AI-Driven Matching:** Implementing AI to better match clients with the perfect photography team based on event type, style preferences, and budget.
+- **Augmented Reality Previews:** Allowing clients to visualize setups and photographer positions in their event spaces using AR technology.
 
+### Enhanced User Experience
+- **Mobile App:** Developing a mobile application for easier access and on-the-go booking.
+- **Client Dashboard:** Creating a personalized dashboard for clients to manage bookings, view portfolios, and track progress.
 
-## FUTURE SCOPE
+### Global Expansion
+- **International Services:** Expanding our network to include photographers from around the world, catering to destination events.
+- **Multilingual Support:** Providing support and services in multiple languages to accommodate a diverse clientele.
 
-- Advancing Via DeFi + Interoperable Blockchain.  
-- AR and Mobile Integration.  
-- Regulatory Compliance Compatible with Other Forms of Currency.  
-- Making Ecosystem Growth Our Superpower.
+### Community and Engagement
+- **Photography Workshops:** Offering workshops and tutorials from our professional photographers to engage and educate our community.
+- **Client Stories:** Showcasing successful event stories and testimonials to inspire and inform potential clients.
 
+### Sustainable Practices
+- **Eco-Friendly Operations:** Implementing sustainable practices in our operations, such as digital delivery of photos and eco-friendly packaging for printed materials.
+- **Green Initiatives:** Partnering with eco-conscious vendors and promoting sustainable event practices.
+
+Pixel Palette is committed to continuous improvement and innovation, ensuring that we remain at the forefront of the photography booking industry. Stay tuned for exciting new features and services designed to enhance your event photography experience.
+
+## Let's Create Memories Together
+Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript, React
+**Client:** HTML, CSS, Javascript,
 
-**Server:** Node, Express, Firebase
-
+**Server:** Working on it
 
 ## Screenshots
 
-![App Screenshot](https://github.com/urvashi2004/tokkn/blob/InnovateXProject/src/assets/Tokkn.jpg)
-![App Screenshot](https://github.com/urvashi2004/tokkn/blob/InnovateXProject/src/assets/Tokkn.jpg)
-![App Screenshot](https://github.com/urvashi2004/tokkn/blob/InnovateXProject/src/assets/Tokkn.jpg)
-![App Screenshot](https://github.com/urvashi2004/tokkn/blob/InnovateXProject/src/assets/Tokkn.jpg)
-![App Screenshot](https://github.com/urvashi2004/tokkn/blob/InnovateXProject/src/assets/Tokkn.jpg)
-
-
-## Demo
-
-- https://youtu.be/0ViLOce3jHY?si=aSj8h87o9rhw0hQk
-
-
-## Authors
-
-- [Urvashi Yadav](https://github.com/urvashi2004)
-- [Shreya Gupta](https://github.com/Shreyaa173)
-- [Shreya Tejan]()
-- [Deepanjali Kumari]()
+![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage.png)
+![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage-Navbar.png)
+![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/2nd%20Page.png)
+![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/BestShots.png)
+![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Popup.png)
+![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Book%20now.png)
 
 
 ## Contributing
@@ -138,26 +131,14 @@ Together, let's make your shopping experience even more rewarding!
 Clone the project
 
 ```bash
-  git clone https://github.com/urvashi2004/tokkn
+  git clone https://github.com/Shreyaa173/Pixel-Pallete
 ```
 
 Go to the project directory
 
 ```bash
-  cd tokkn
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  cd pixel-pallete
 ```
 
 ##
-Thankyou for visiting our project. 
+Thankyou for visiting my project. 
