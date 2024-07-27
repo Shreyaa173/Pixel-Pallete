@@ -31,7 +31,7 @@ Are you looking to capture the most memorable moments of your events with profes
 - **High-Quality Equipment:** Latest tools and techniques.
 - **Post-Processing Excellence:** Professional editing for picture-perfect images.
 
-### 55. Customer Support
+### 5. Customer Support
 - **Dedicated Support Team:** Always available for assistance.
 - **Flexible Scheduling:** Responsive to changes in plans.
 
