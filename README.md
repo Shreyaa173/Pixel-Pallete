@@ -41,11 +41,6 @@ Are you looking to capture the most memorable moments of your events with profes
 
 Choose Pixel Palette for a seamless, professional, and unforgettable photography experience.
 
-Join Us Today!
-
-Start earning tokens and unlock a world of rewards by signing up for our loyalty program today. It's completely free and only takes a moment.
-Together, let's make your shopping experience even more rewarding!
-
 ## Future Scope
 
 ### 1. Expanded Services
